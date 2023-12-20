@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="FundRazr" section_id="c6225c204726211007046285d36d43a8" sys_domain="global" table="x_1047617_fundrazr_donor_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:23:22</sys_created_on>
+            <sys_id>ef339c604726211007046285d36d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:23:22</sys_created_on>
+            <sys_id>e3339c604726211007046285d36d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:23:22</sys_created_on>
+            <sys_id>e7339c604726211007046285d36d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charity</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:23:22</sys_created_on>
+            <sys_id>eb339c604726211007046285d36d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:23:22</sys_created_on>
+            <sys_id>ef339c604726211007046285d36d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:23:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>FundRazr</caption>
+            <header>false</header>
+            <name>x_1047617_fundrazr_donor_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2023-04-28 09:18:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6225c204726211007046285d36d43a8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1047617_fundrazr_donor_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="FundRazr" source="x_1047617_fundrazr">199190204726211007046285d36d4306</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FundRazr">199190204726211007046285d36d4306</sys_scope>
+            <sys_update_name>sys_ui_section_c6225c204726211007046285d36d43a8</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2023-04-28 09:26:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="FundRazr">199190204726211007046285d36d4306</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sys_ui_section_c6225c204726211007046285d36d43a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="FundRazr" section_id="c6225c204726211007046285d36d43a8" sys_domain="global" table="x_1047617_fundrazr_donor_details" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:23:22</sys_created_on><sys_id>ef339c604726211007046285d36d43c8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:23:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>1</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:23:22</sys_created_on><sys_id>e3339c604726211007046285d36d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:23:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>country</element><position>2</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:23:22</sys_created_on><sys_id>e7339c604726211007046285d36d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:23:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>charity</element><position>3</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:23:22</sys_created_on><sys_id>eb339c604726211007046285d36d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:23:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>amount</element><position>4</position><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:23:22</sys_created_on><sys_id>ef339c604726211007046285d36d43c9</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="FundRazr" display_value="FundRazr" name="x_1047617_fundrazr_donor_details" sys_domain="global" view="Default view">c6225c204726211007046285d36d43a8</sys_ui_section><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:23:22</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>FundRazr</caption><header>false</header><name>x_1047617_fundrazr_donor_details</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-04-28 09:18:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c6225c204726211007046285d36d43a8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1047617_fundrazr_donor_details</sys_name><sys_overrides/><sys_package display_value="FundRazr" source="x_1047617_fundrazr">199190204726211007046285d36d4306</sys_package><sys_policy/><sys_scope display_value="FundRazr">199190204726211007046285d36d4306</sys_scope><sys_update_name>sys_ui_section_c6225c204726211007046285d36d43a8</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-04-28 09:26:04</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1726161991</payload_hash>
+        <record_name>Donor Details</record_name>
+        <reverted_from/>
+        <source>bd9190204726211007046285d36d43ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-28 09:26:04</sys_created_on>
+        <sys_id>c7d318a04726211007046285d36d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187c72f15570000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-28 09:26:04</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fed318a04b26211018f92ab46fa86c2d</update_guid>
+        <update_guid_history>fed318a04b26211018f92ab46fa86c2d:-1726161991,ab339c60fb2621102624918f1a5de4cb:1790179322,77031c608926211089379e1761264d27:204391605,ce225c2044262110ae7cdf27f11ce3aa:519599138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-04-30 13:56:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>65aae307053c497ba86b1f49d6905c31</sys_id>
+        <sys_metadata>c6225c204726211007046285d36d43a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FundRazr</sys_name>
+        <sys_package display_value="FundRazr" source="x_1047617_fundrazr">199190204726211007046285d36d4306</sys_package>
+        <sys_parent display_value="">ca1298204726211007046285d36d4368</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="FundRazr">199190204726211007046285d36d4306</sys_scope>
+        <sys_scope_delete display_value="">23737991d3714b98bb2b611ac545bf84</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c6225c204726211007046285d36d43a8</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c6225c204726211007046285d36d43a8">c7d318a04726211007046285d36d432e</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-04-30 13:56:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

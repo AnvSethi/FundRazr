@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="FundRazr">52ce901154262110efc3a077c303ef08</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 18:09:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>96ce90119e2621106e3ac11df30d620a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="FundRazr" source="x_1047617_fundrazr">199190204726211007046285d36d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FundRazr">199190204726211007046285d36d4306</sys_scope>
+        <sys_update_name>sys_ux_page_property_96ce90119e2621106e3ac11df30d620a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 18:09:16</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1047617_fundrazr.52ce901154262110efc3a077c303ef08.root.ribbonConfigId</unique_name>
+        <value>12ce9011f526211061d7173f1624cd07</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=96ce90119e2621106e3ac11df30d620a"/>
+</record_update>

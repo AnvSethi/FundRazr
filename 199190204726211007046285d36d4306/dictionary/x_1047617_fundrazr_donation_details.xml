@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ee5360554726211007046285d36d43b1" label="Donation Details" max_length="40" name="x_1047617_fundrazr_donation_details" type="collection">
+        <element label="Amount" mandatory="true" max_length="38" name="amount" type="currency"/>
+        <element choice="1" label="Charity" mandatory="true" max_length="40" name="charity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ukraine Crisis" sequence="0" value="ukraine_crisis"/>
+                <element inactive_on_update="false" label="Turkey Earthquake" sequence="1" value="turkey_earthquake"/>
+            </choice>
+        </element>
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>

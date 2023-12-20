@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="FundRazr">1ace90110326211056f209a21ca21307</dashboard>
+        <dashboard_tab/>
+        <layout>[]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-30 18:09:16</sys_created_on>
+        <sys_id>12ce9011be262110acdf18b3ef51d80d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="FundRazr" source="x_1047617_fundrazr">199190204726211007046285d36d4306</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FundRazr">199190204726211007046285d36d4306</sys_scope>
+        <sys_update_name>par_dashboard_canvas_12ce9011be262110acdf18b3ef51d80d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-30 18:09:16</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>
